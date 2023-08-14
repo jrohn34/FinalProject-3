@@ -1,5 +1,4 @@
-Hello grader(s)!
-"wordleBoard.py" is what you want to look at. I (Alec Blanton, aleblant@iu.edu) have added further explanation below:
+Hello all!
 
 I designed this bot to store information about how it runs in two files: 
 botTimeHistory.txt (which records the seconds between first and last guess of each run)
